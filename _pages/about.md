@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate Kyoto University, fortunate to be advised by Prof. Ellen H. Fukuda. I obtained my M.S. in informatics from Kyoto University in 2024. My research interests include nonlinear optimization, semidefinite programming, conic optimization and their applications in machine learning and deep learning.
+I am a first-year Ph.D. candidate at Kyoto University, fortunate to be advised by Prof. Ellen H. Fukuda. I received my M.S. in informatics from Kyoto University in 2024, and expect to earn my doctoral degree in 2027. My research interests include nonlinear optimization, semidefinite programming, conic optimization, and their applications in machine learning and deep learning.
 
 A data-driven personal website
 ======
